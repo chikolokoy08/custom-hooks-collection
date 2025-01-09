@@ -47,7 +47,7 @@ To use these hooks in your project:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/custom-hooks-collection.git
+git clone https://github.com/chikolokoy08/custom-hooks-collection
 ```
 
 2. Navigate to the project folder and install dependencies (if required for future extensions):
